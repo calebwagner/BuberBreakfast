@@ -1,4 +1,4 @@
-namespace BuberBreakfast.Contracts.BuberBreakfast;
+namespace BuberBreakfast.Contracts.Breakfast;
 
 public record BreakfastResponse(
     Guid Id,
